@@ -35,7 +35,7 @@ function setup() {
   function draw() {
     // put drawing code here
     textSize(40);
-text('REFRESH ', 10, 30);
+text('REFRESH ', 10, 35);
 fill('#267F33');
 text('To make the pattern ',10,70);
 fill('#267F33');
